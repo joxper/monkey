@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760747181307",
+    "firebase_url": "https://monkeybisfire.firebaseio.com",
+    "project_id": "monkeybisfire",
+    "storage_bucket": "monkeybisfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760747181307:android:e838e35517079580",
+        "android_client_info": {
+          "package_name": "com.apps.jorge.monkeybisfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760747181307-bo9mls94vncf2imrj7dkf1td771pn54a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24ou9rbePgs1v3_1lIPeM7dhUP0sKB98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
